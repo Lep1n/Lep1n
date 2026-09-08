@@ -30,17 +30,6 @@
 
 ---
 
-### 🌟 Featured Repositories
-
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛍️ [**async-data-extractor**](https://github.com/Lep1n/async-data-extractor) | Enterprise E-Commerce Data Extractor with CustomTkinter Dark GUI, dynamic tag chips, & pagination | `Python`, `Playwright`, `Pandas`, `CustomTkinter` |
-| 🛒 [**saucedemo-automation-framework**](https://github.com/Lep1n/saucedemo-automation-framework) | E2E Playwright Page Object Model (POM) Test Automation Framework with HTML Reports | `Python`, `Playwright`, `Pytest`, `POM` |
-| 🤖 [**telegram-pc-control**](https://github.com/Lep1n/telegram-pc-control) | C2 Windows Remote PC Control Bot v0.8.3 with Win32 API, screenshots, hardware stats & TTS | `Python`, `Win32 API`, `Telegram Bot API` |
-| 🧪 [**python-qa-automation**](https://github.com/Lep1n/python-qa-automation) | Form Auto-Fillers & REST API Pytest Automation Test Suite | `Python`, `Selenium`, `Pytest`, `REST API` |
-
----
-
 
 ### 📫 Let's Connect & Work Together
 
