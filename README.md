@@ -14,7 +14,7 @@
 * 🛠️ **Core Specialization:** Building E2E Web Automation Frameworks (Page Object Model), Async Data Extractors, and Windows System Automation Tools.
 * 🏆 **uTest / Applause Verified Track Record:**
   * **Gold Status** in Localization Testing (Top 7% globally).
-  * **Silver Status** in Functional Testing (Top 15% globally).
+  * **Silver Status** in Functional Testing (Top 10% globally).
   * **80+ approved bug reports** with 100% approval rate on StubHub e-commerce cycles.
   * Designated **"Favorite Tester"** badge by Lightricks QA management.
 * 🎯 **Focus Areas:** Web Scraping & Data Extraction, E2E Browser Testing, API Automation, Custom Desktop GUIs, Windows C2 Automation.
